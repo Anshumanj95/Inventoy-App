@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item">Item</string>
+    <string name="price">Price</string>
+    <string name="add_new_item">Add new item</string>
+    <string name="quantity_in_stock">Quantity In Stock</string>
+    <string name="screwdrivers">ScrewDrivers</string>
+    <string name="_5_50">$5.50</string>
+    <string name="sell">Sell</string>
+    <string name="delete">Delete</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="item_name">Item Name *</string>
+    <string name="item_price">Item Price *</string>
+    <string name="quantity_req">Quantity In Stock *</string>
+    <string name="save">Save</string>
+    <string name="name">Cogs And Widgets</string>
+    <string name="p">$4.99</string>
+    <string name="edit_fragmnent_title">Edit Item</string>
+    <string name="add_fragment_title">Add Item</string>
+    <string name="item_detail_fragment_title">Item Details</string>
+</resources>
